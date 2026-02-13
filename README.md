@@ -39,6 +39,6 @@ Each product category connects directly to WhatsApp with a pre-filled inquiry me
 
 (Your GitHub Pages Link Here)
 
----
+https://ivijy.github.io/Shubh-lagn-website/
 
 © 2026 Shubh Lagn. All rights reserved.
